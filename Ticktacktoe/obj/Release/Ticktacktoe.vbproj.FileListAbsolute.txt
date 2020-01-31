@@ -1,0 +1,11 @@
+C:\Users\Taike\Documents\Programmering\Visual Basic\Ticktacktoe\Ticktacktoe\bin\Release\Ticktacktoe.exe.config
+C:\Users\Taike\Documents\Programmering\Visual Basic\Ticktacktoe\Ticktacktoe\bin\Release\Ticktacktoe.exe
+C:\Users\Taike\Documents\Programmering\Visual Basic\Ticktacktoe\Ticktacktoe\bin\Release\Ticktacktoe.pdb
+C:\Users\Taike\Documents\Programmering\Visual Basic\Ticktacktoe\Ticktacktoe\bin\Release\Ticktacktoe.xml
+C:\Users\Taike\Documents\Programmering\Visual Basic\Ticktacktoe\Ticktacktoe\obj\Release\Ticktacktoe.vbprojAssemblyReference.cache
+C:\Users\Taike\Documents\Programmering\Visual Basic\Ticktacktoe\Ticktacktoe\obj\Release\Ticktacktoe.Form1.resources
+C:\Users\Taike\Documents\Programmering\Visual Basic\Ticktacktoe\Ticktacktoe\obj\Release\Ticktacktoe.Resources.resources
+C:\Users\Taike\Documents\Programmering\Visual Basic\Ticktacktoe\Ticktacktoe\obj\Release\Ticktacktoe.vbproj.GenerateResource.cache
+C:\Users\Taike\Documents\Programmering\Visual Basic\Ticktacktoe\Ticktacktoe\obj\Release\Ticktacktoe.exe
+C:\Users\Taike\Documents\Programmering\Visual Basic\Ticktacktoe\Ticktacktoe\obj\Release\Ticktacktoe.xml
+C:\Users\Taike\Documents\Programmering\Visual Basic\Ticktacktoe\Ticktacktoe\obj\Release\Ticktacktoe.pdb
